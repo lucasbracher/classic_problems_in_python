@@ -31,3 +31,6 @@ class Stack:
             test = self.remove()
             if test is None:
                 break
+
+    def isempty(self):
+        return self.head is None
