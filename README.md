@@ -11,3 +11,10 @@ In this repository you will find solutions classic problems. Some of these probl
 * [Top Classic Data Structure Problems](https://codeforces.com/blog/entry/79755)
 
 This is a work in progress repository.
+
+## List of Solved Problems:
+
+| Problem | Uses Recursion? | Uses Queues? | Uses Stacks? | 
+|:----|:---:|:---:|:---:|
+| Sand Dripping | Yes | | |
+| Flood Fill | | Yes | |
