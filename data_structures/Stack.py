@@ -11,6 +11,14 @@ class Stack:
             r = r + "-" + str(p.data)
             p = p.next
         return r[1:]
+    
+    def __len__(self):
+        c = 0
+        p = self.head
+        while p is not None:
+            c += 1
+            p = p.next
+        return c
 
     def insert(self, data) -> None:
         node = SimpleNode(data)
