@@ -14,7 +14,25 @@ This is a work in progress repository.
 
 ## List of Solved Problems:
 
-| Problem | Uses Recursion? | Uses Queues? | Uses Stacks? | 
-|:----|:---:|:---:|:---:|
-| Sand Dripping | Yes | | |
-| Flood Fill | | Yes | |
+| Problem | Short Description | Uses Recursion? | Uses Queues? | Uses Stacks? | 
+|:----|:---:|:---:|:---:|:---:|
+| Sand Dripping | Simulate how n grains of sand stand on a container of width l dripping on a point p | Yes | | |
+| Flood Fill | Algorithm for painting neighboring pixels of same color | | Yes | |
+
+## List of Problems to be Solved:
+
+| Problem | Short Description | 
+|:----|:---:|:---:|
+| Dijkstra's Algorithm | Shortest path on an acyclic graph with positive weights on edges |
+| Chess Knight Problem | Given a chessboard, find the shortest distance (minimum number of steps) taken by a knight to reach a given destination from a given source. |
+
+## List of Data Structures implemented from scratch:
+
+* Queue
+* Stack
+
+## List of Data Structures to be implemented from scratch:
+
+* Linked List
+* Doubled Linked List
+* Graph
