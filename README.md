@@ -22,7 +22,7 @@ This is a work in progress repository.
 ## List of Problems to be Solved:
 
 | Problem | Short Description | 
-|:----|:---:|:---:|
+|:----|:---:|
 | Dijkstra's Algorithm | Shortest path on an acyclic graph with positive weights on edges |
 | Chess Knight Problem | Given a chessboard, find the shortest distance (minimum number of steps) taken by a knight to reach a given destination from a given source. |
 
