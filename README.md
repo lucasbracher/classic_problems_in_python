@@ -23,7 +23,7 @@ This is a work in progress repository.
 
 | Problem | Short Description | 
 |:----|:----|
-| Dijkstra's Algorithm | Shortest path on an acyclic graph with positive weights on edges |
+| Dijkstra's Algorithm | Shortest path on a graph with positive weights on edges |
 | Chess Knight Problem | Given a chessboard, find the shortest distance (minimum number of steps) taken by a knight to reach a given destination from a given source. |
 
 ## List of Data Structures implemented from scratch:
